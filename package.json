@@ -1,0 +1,14 @@
+{
+  "name": "license-checker-demo",
+  "version": "1.0.0",
+  "description": "A repository where we demo the license checker GitHub App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Wilhelm Klopp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
