@@ -14,6 +14,7 @@
     "named-regexp": "^0.1.1",
     "pg": "^7.5.0",
     "query-string": "^6.2.0",
-    "goat.js": "latest"
+    "goat.js": "latest",
+    "d3.js": "lastest"
   }
 }
